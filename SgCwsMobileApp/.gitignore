@@ -1,0 +1,182 @@
+# User-specific files
+*.swp
+*.swo
+*.DS_Store
+*.xcuserstate
+
+# Xcode
+!/*.xcworkspace
+!/*.xcodeproj
+# Ignore Xcode project user data
+*.xcworkspace/xcuserdata
+*.xcodeproj/project.xcworkspace/xcuserdata
+*.xcodeproj/xcuserdata
+
+# Build directories
+build/
+DerivedData/
+*.ipa
+*.dSYM.zip
+*.dSYM
+
+# iOS Frameworks
+Pods/
+Carthage/Build/
+Carthage/Checkouts/
+
+# CocoaPods
+# Uncomment the next line if you have common pods, otherwise the Pods directory should be ignored.
+# !Pods/
+Podfile.lock
+Pods/
+
+# Swift Package Manager
+Packages/
+.swiftpm/
+build/
+.xcscmblueprint
+
+# Accio dependency management
+Dependencies/
+.accio/
+
+# fastlane
+# It is recommended to not store the screenshots in the git repo.
+# Instead, use fastlane to re-generate the screenshots whenever they are needed.
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Code Coverage
+*.xccoverage
+
+# Logs
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Build artifacts
+*.o
+*.pyc
+*.pyo
+*.pyd
+*.pid
+*.pyo
+*.rbc
+*.so
+*.swp
+*.swo
+*.swn
+*.class
+*.dll
+*.exe
+*.out
+
+# Documentation
+*.docset
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Xcode build folder
+.build/
+
+# xcresult files
+*.xcresult
+
+# Swift Package Manager
+.swiftpm
+Package.resolved
+
+# .env files for environment variables
+.env
+.env.*
+
+# Objective-C/Swift specific
+*.moved-aside
+*.xccheckout
+*.xcuserstate
+*.moved-aside
+
+# Ruby
+Gemfile.lock
+
+# Carthage specific
+# Carthage/Build/iOS/*
+Carthage/Checkouts
+Carthage/Build
+
+# Bundler
+.bundle/
+
+# macOS Files
+.DS_Store
+
+# iOS specific
+*.mode1v3
+*.mode2v3
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.xcuserstate
+
+# Swift Package Manager
+.build/
+.build/checkouts
+.build/manifest.db
+.build/outputs
+.build/repositories
+.build/repositories/*/.git
+.build/x86_64-apple-macosx/debug.yaml
+.build/x86_64-apple-macosx/debug.yaml.d
+.build/x86_64-apple-macosx/release.yaml
+.build/x86_64-apple-macosx/release.yaml.d
+.swiftpm
+.swiftpm/xcode
+
+# Xcode Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# App Secrets
+*.xcconfig
+
+# Markdown files for documentation
+*.md
+
+# SwiftLint
+.swiftlint.yml
+
+# Fastlane specific
+.fastlane/
+.env.default
+.env.production
+.env.staging
+
+# Firebase generated files
+GoogleService-Info.plist
+GoogleService-Info_Debug.plist
+GoogleService-Info_Release.plist
+
+# Other Xcode specific files
+project.xcworkspace/contents.xcworkspacedata
+project.xcworkspace/xcshareddata
+*.xcodeproj/project.pbxproj
+*.xcodeproj/xcshareddata
+*.xcworkspace/contents.xcworkspacedata
+*.xcworkspace/xcshareddata
+
+# Xcode ModuleCache
+ModuleCache/
+
+# Build output directories
+Build/
+DerivedData/
+
+

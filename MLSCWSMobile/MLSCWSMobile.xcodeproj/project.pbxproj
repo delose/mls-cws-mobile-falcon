@@ -11,6 +11,7 @@
 		9368B97C2C5B1B9200417860 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9368B97B2C5B1B9200417860 /* ContentView.swift */; };
 		9368B97E2C5B1B9400417860 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9368B97D2C5B1B9400417860 /* Assets.xcassets */; };
 		9368B9822C5B1B9400417860 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9368B9812C5B1B9400417860 /* Preview Assets.xcassets */; };
+		9368B98A2C5B226100417860 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9368B9892C5B226100417860 /* UIKit.framework */; platformFilter = ios; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9368B97D2C5B1B9400417860 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9368B97F2C5B1B9400417860 /* MLSCWSMobile.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MLSCWSMobile.entitlements; sourceTree = "<group>"; };
 		9368B9812C5B1B9400417860 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		9368B9892C5B226100417860 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS17.5.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -27,6 +29,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9368B98A2C5B226100417860 /* UIKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -38,6 +41,7 @@
 			children = (
 				9368B9782C5B1B9200417860 /* MLSCWSMobile */,
 				9368B9772C5B1B9200417860 /* Products */,
+				9368B9882C5B226100417860 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -67,6 +71,14 @@
 				9368B9812C5B1B9400417860 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		9368B9882C5B226100417860 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				9368B9892C5B226100417860 /* UIKit.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

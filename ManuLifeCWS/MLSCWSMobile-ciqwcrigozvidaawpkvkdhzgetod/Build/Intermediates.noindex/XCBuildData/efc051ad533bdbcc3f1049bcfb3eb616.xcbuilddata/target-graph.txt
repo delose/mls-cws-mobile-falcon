@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-Target 'MLSCWSMobile' in project 'MLSCWSMobile' (no dependencies)

@@ -15,7 +15,7 @@ extension ContentView {
             Image(systemName: __designTimeString("#7489.[1].[0].property.[0].[0].arg[0].value.[0].arg[0].value", fallback: "globe"))
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text(__designTimeString("#7489.[1].[0].property.[0].[0].arg[0].value.[1].arg[0].value", fallback: "Hello, world!"))
+            Text(__designTimeString("#7489.[1].[0].property.[0].[0].arg[0].value.[1].arg[0].value", fallback: "Hello, worlds!"))
         }
         .padding()
     

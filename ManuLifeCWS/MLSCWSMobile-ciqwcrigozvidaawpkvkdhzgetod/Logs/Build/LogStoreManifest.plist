@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>116D46E9-FD04-42B3-BEE0-7672409DBB37</key>
+		<key>F237C45A-16C5-42E3-86B1-6DD3E9FF2E3A</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>116D46E9-FD04-42B3-BEE0-7672409DBB37.xcactivitylog</string>
+			<string>F237C45A-16C5-42E3-86B1-6DD3E9FF2E3A.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -40,55 +40,13 @@
 			<key>signature</key>
 			<string>Build for Previews MLSCWSMobile</string>
 			<key>timeStartedRecording</key>
-			<real>744168342.31928098</real>
+			<real>744170344.64791703</real>
 			<key>timeStoppedRecording</key>
-			<real>744168350.36213696</real>
+			<real>744170346.26454794</real>
 			<key>title</key>
 			<string>Build for Previews MLSCWSMobile</string>
 			<key>uniqueIdentifier</key>
-			<string>116D46E9-FD04-42B3-BEE0-7672409DBB37</string>
-		</dict>
-		<key>45FC8864-D3D2-4257-B86B-F128C752EEBD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>45FC8864-D3D2-4257-B86B-F128C752EEBD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>MLSCWSMobile project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>MLSCWSMobile</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build MLSCWSMobile</string>
-			<key>timeStartedRecording</key>
-			<real>744168445.29028499</real>
-			<key>timeStoppedRecording</key>
-			<real>744168446.91078496</real>
-			<key>title</key>
-			<string>Build MLSCWSMobile</string>
-			<key>uniqueIdentifier</key>
-			<string>45FC8864-D3D2-4257-B86B-F128C752EEBD</string>
+			<string>F237C45A-16C5-42E3-86B1-6DD3E9FF2E3A</string>
 		</dict>
 	</dict>
 </dict>
