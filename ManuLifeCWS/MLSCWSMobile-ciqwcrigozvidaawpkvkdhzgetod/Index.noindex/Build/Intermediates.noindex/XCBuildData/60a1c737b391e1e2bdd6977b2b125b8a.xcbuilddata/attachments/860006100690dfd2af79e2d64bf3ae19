@@ -1,0 +1,18 @@
+{
+  "" : {
+    "dependencies" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/MLSCWSMobile.build/Debug-maccatalyst/MLSCWSMobile.build/Objects-normal/arm64/MLSCWSMobile-master.d",
+    "diagnostics" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/MLSCWSMobile.build/Debug-maccatalyst/MLSCWSMobile.build/Objects-normal/arm64/MLSCWSMobile-master.dia",
+    "emit-module-dependencies" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/MLSCWSMobile.build/Debug-maccatalyst/MLSCWSMobile.build/Objects-normal/arm64/MLSCWSMobile-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/MLSCWSMobile.build/Debug-maccatalyst/MLSCWSMobile.build/Objects-normal/arm64/MLSCWSMobile-master-emit-module.dia",
+    "swift-dependencies" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/MLSCWSMobile.build/Debug-maccatalyst/MLSCWSMobile.build/Objects-normal/arm64/MLSCWSMobile-master.swiftdeps"
+  },
+  "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/MLSCWSMobile.build/Debug-maccatalyst/MLSCWSMobile.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/MLSCWSMobile/MLSCWSMobile/ContentView.swift" : {
+
+  },
+  "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/MLSCWSMobile/MLSCWSMobile/MLSCWSMobileApp.swift" : {
+
+  }
+}

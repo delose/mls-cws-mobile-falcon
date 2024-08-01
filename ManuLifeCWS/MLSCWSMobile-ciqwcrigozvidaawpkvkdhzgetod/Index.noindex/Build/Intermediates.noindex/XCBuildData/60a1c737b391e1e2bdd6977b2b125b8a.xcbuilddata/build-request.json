@@ -1,0 +1,61 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "a68c9048dec57a4206fa786f9e37bb8ae32e025b6f94a07be8857e9bbacf3ba8"
+    }
+  ],
+  "containerPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/MLSCWSMobile/MLSCWSMobile.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS",
+      "indexDataStoreFolderPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Build/Products",
+      "pchPath" : "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/ManuLifeCWS/MLSCWSMobile-ciqwcrigozvidaawpkvkdhzgetod/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5FAEF6AD0410C50E5B9FC5393C61BF38C4CDB071",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5FAEF6AD0410C50E5B9FC5393C61BF38C4CDB071" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4EFCF72B-001A-48A4-B62B-9DD221D1BC75",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5FAEF6AD0410C50E5B9FC5393C61BF38C4CDB071" : "mls-cws-mobile-falcon\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MLSCWSMobile",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MLSCWSMobile\/MLSCWSMobile.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/delose\/mls-cws-mobile-falcon.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5FAEF6AD0410C50E5B9FC5393C61BF38C4CDB071"
+    }
+  ]
+}

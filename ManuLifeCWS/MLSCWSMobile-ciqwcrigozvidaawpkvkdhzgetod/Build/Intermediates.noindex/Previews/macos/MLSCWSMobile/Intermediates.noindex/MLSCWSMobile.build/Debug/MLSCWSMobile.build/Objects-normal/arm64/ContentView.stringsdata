@@ -1,0 +1,12 @@
+{
+  "source": "/Users/eugenedelossantos/prototype/mls-cws-mobile-falcon/MLSCWSMobile/MLSCWSMobile/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!"
+      }
+    ]
+  },
+  "version": 1
+}
